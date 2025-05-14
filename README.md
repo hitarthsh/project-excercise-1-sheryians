@@ -8,5 +8,5 @@
 
 ### Live Demo
 
-You can see a live demo of this website (https://blog-website-by-only-html.netlify.app/)
+You can see a live demo of this website (https://hitarthsh.github.io/project-excercise-1-sheryians/)
 
